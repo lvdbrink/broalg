@@ -3,16 +3,12 @@ var respecConfig = {
   specType: "IM",
   //publishDate: "2017-06-15",
   editors: [{
-    name: "First Lastname",
-    company: "Company",
-    companyURL: "CompanyURL",
-  },{
-    name: "Second Lastname",
-    company: "Company",
-    companyURL: "CompanyURL",
+    name: "Linda van den Brink",
+    company: "Geonovum",
+    companyURL: "https://www.geonovum.nl",
   }],
-  shortName: "bro-booronderzoek",
-  github: "https://github.com/BROprogramma/booronderzoek",
+  shortName: "bro-alg",
+  github: "https://github.com/lvdbrink/broalg",
   //previousPublishDate: "2017-01-01",
   //previousStatus: "GN-CV",
   //localBiblio: {
