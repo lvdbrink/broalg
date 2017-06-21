@@ -1,6 +1,6 @@
 var respecConfig = {
   specStatus: "GN-WV",
-  specType: "IM",
+  specType: "ST",
   //publishDate: "2017-06-15",
   editors: [{
     name: "Linda van den Brink",
